@@ -20,7 +20,7 @@
 ---
 
 <!-- PROFILE -->
-<h2 align="center">⚡ Quant Profile</h2>
+<h2 align="center">Quant Profile</h2>
 
 ```python
 class QuantProfile:
@@ -43,12 +43,12 @@ class QuantProfile:
 ---
 
 <!-- FOCUS -->
-<h2 align="center">🎯 Quant Focus</h2>
+<h2 align="center">Quant Focus</h2>
 
-- 📈 **Quantitative finance** — building my path toward becoming a Quant.
-- 🛡️ **Actuarial science** — financial modeling and risk analysis.
-- 🐍 **Python for financial engineering** — data, models and numerical methods.
-- 🧠 **Knowledge systems** — a STEM & Feynman-style Zettelkasten in Obsidian.
+- **Quantitative finance** — building my path toward becoming a Quant.
+- **Actuarial science** — financial modeling and risk analysis.
+- **Python for financial engineering** — data, models and numerical methods.
+- **Knowledge systems** — a STEM & Feynman-style Zettelkasten in Obsidian.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stochastic%20Calculus-a371f7?style=flat-square&labelColor=161b22&label=%CE%A3" alt="Stochastic Calculus" />
@@ -62,7 +62,7 @@ class QuantProfile:
 ---
 
 <!-- MATH -->
-<h2 align="center">📐 Core Mathematics</h2>
+<h2 align="center">Core Mathematics</h2>
 
 <p align="center"><b>Geometric Brownian Motion</b> — the standard model for asset prices</p>
 
@@ -83,7 +83,7 @@ $$S = \frac{E[R_p - R_f]}{\sigma_p}$$
 ---
 
 <!-- MONTE CARLO -->
-<h2 align="center">🎲 Monte Carlo in Action</h2>
+<h2 align="center">Monte Carlo in Action</h2>
 
 <p align="center">Simulating asset price paths (purple) to price a European call. Green bars are the outcomes that finish in the money.</p>
 
@@ -109,7 +109,7 @@ print(mc_call(100, 105, 0.05, 0.2, 1))
 ---
 
 <!-- ROADMAP -->
-<h2 align="center">🧭 Path to Quant</h2>
+<h2 align="center">Path to Quant</h2>
 
 ```mermaid
 flowchart TD
@@ -125,7 +125,7 @@ flowchart TD
 ---
 
 <!-- TECH -->
-<h2 align="center">🧰 Tech Arsenal</h2>
+<h2 align="center">Tech Arsenal</h2>
 
 <h3 align="center">Programming &amp; Data</h3>
 <p align="center">
@@ -145,7 +145,7 @@ flowchart TD
 ---
 
 <!-- ANALYTICS -->
-<h2 align="center">📡 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/xenoqed-art">
