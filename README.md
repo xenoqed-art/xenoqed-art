@@ -24,20 +24,20 @@
 
 ```python
 class QuantProfile:
-    alias      = "Xeno_QED"
-    background = "Actuarial Science"
-    school     = "UAEMéx"
-    target     = "Quantitative Analyst"
-    languages  = ["Python", "C++"]
-    math       = ["Probability",
-                  "Statistics",
-                  "Stochastic Processes"]
+    alias       = "Xeno_QED"
+    background  = "Actuarial Science"
+    school      = "UAEMéx"
+    target      = "Quantitative Analyst"
+    languages   = ["Python", "C++"]
+    math        = ["Probability",
+                   "Statistics",
+                   "Stochastic Processes"]
     typesetting = "LaTeX"
-    os         = "Fedora Linux"
-    brain      = "Obsidian · 3,400+ notes"
-    offline    = ["Taekwondo",
-                  "Basketball",
-                  "Guitar"]
+    os          = "Fedora Linux"
+    brain       = "Obsidian · 3,400+ notes"
+    offline     = ["Taekwondo",
+                   "Basketball",
+                   "Guitar"]
 ```
 
 ---
@@ -88,7 +88,7 @@ $$S = \frac{E[R_p - R_f]}{\sigma_p}$$
 <p align="center">Simulating asset price paths (purple) to price a European call. Green bars are the outcomes that finish in the money.</p>
 
 <p align="center">
-  <img src="assets/montecarlo.svg" width="640" alt="Animated Monte Carlo simulation: GBM price paths, their expected value and the distribution of terminal prices, giving a call price of about 8.01" />
+  <img src="montecarlo.svg" width="640" alt="Animated Monte Carlo simulation: GBM price paths, their expected value and the distribution of terminal prices, giving a call price of about 8.01" />
 </p>
 
 ```python
